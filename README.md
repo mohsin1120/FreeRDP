@@ -32,3 +32,5 @@ https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
 https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+
+This project is tested with BrowserStack
